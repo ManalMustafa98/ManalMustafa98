@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0ea5e9&height=200&section=header&text=Manal%20Mustafa&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=CS%20Student&descAlignY=55&descSize=20" width="100%"/>
 
 <a href="https://github.com/ManalMustafa98">
-  <img src="https://readme-typing-svg.demolab.com/?lines=CS+Student+%7C+Software+Engineer;Building+Full-Stack+Web+Applications;React+%E2%80%A2+Python+%E2%80%A2+FastAPI+%E2%80%A2+AI;Always+Learning.+Always+Building.&font=Fira+Code&center=true&width=600&height=45&color=7dd3fc&vCenter=true&size=22"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=CS+Student+%7C+Aspiring+Software+Engineer;Building+Full-Stack+Web+Applications;React+%E2%80%A2+Python+%E2%80%A2+FastAPI+%E2%80%A2+AI;Always+Learning.+Always+Building.&font=Fira+Code&center=true&width=600&height=45&color=7dd3fc&vCenter=true&size=22"/>
 </a>
 
 <br/>
@@ -57,6 +57,7 @@ const manalMustafa = {
 
 A database-driven university admission system designed using SQL, allowing applicants to apply, track test dates and the selection process, and manage records through a structured relational database.
 
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ManalMustafa98&repo=UniversityAdmissionSystemDB&theme=nord&border_color=7dd3fc&title_color=7dd3fc" />
 
 | Layer | Technology |
 |---|---|
@@ -71,6 +72,8 @@ A database-driven university admission system designed using SQL, allowing appli
 ### 🤖 Career Mentor AI
 
 An AI-powered career guidance platform built with a FastAPI backend and a React + Vite + Tailwind frontend, designed to provide personalized career recommendations.
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ManalMustafa98&repo=Career-Mentor-Ai&theme=nord&border_color=7dd3fc&title_color=7dd3fc" />
 
 | Layer | Technology |
 |---|---|
@@ -146,12 +149,13 @@ A hardware project: an Arduino-based car controlled via hand gestures over Bluet
 ### 🏆 Trophies
 
 <div align="center">
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=ManalMustafa98&theme=nord&no-frame=true&no-bg=true&margin-w=15" />
 </div>
 
 ### 📈 Contribution Activity
 
 <div align="center">
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ManalMustafa98&theme=react-dark&color=7dd3fc&line=7dd3fc&point=ffffff" width="90%"/>
 </div>
 
 ---
