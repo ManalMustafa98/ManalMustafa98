@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.com/api?type=waving&color=0:7dd3fc,100:0ea5e9&height=200&section=header&text=Manal%20Mustafa&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=CS%20Student&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0ea5e9&height=200&section=header&text=Manal%20Mustafa&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=CS%20Student&descAlignY=55&descSize=20" width="100%"/>
 
 <a href="https://github.com/ManalMustafa98">
-  <img src="https://readme-typing-svg.demolab.com/?lines=CS+Student+%7C+Aspiring+Software+Engineer;Building+Full-Stack+Web+Applications;React+%E2%80%A2+Python+%E2%80%A2+FastAPI+%E2%80%A2+AI;Always+Learning.+Always+Building.&font=Fira+Code&center=true&width=600&height=45&color=7dd3fc&vCenter=true&size=22"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=CS+Student+%7C+Software+Engineer;Building+Full-Stack+Web+Applications;React+%E2%80%A2+Python+%E2%80%A2+FastAPI+%E2%80%A2+AI;Always+Learning.+Always+Building.&font=Fira+Code&center=true&width=600&height=45&color=7dd3fc&vCenter=true&size=22"/>
 </a>
 
 <br/>
@@ -139,8 +139,8 @@ A hardware project: an Arduino-based car controlled via hand gestures over Bluet
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ManalMustafa98&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManalMustafa98&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=ManalMustafa98&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9&cache_seconds=86400" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManalMustafa98&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&cache_seconds=86400" width="48%" />
 
 <img src="https://streak-stats.demolab.com/?user=ManalMustafa98&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc" width="70%" />
 
@@ -169,4 +169,4 @@ A hardware project: an Arduino-based car controlled via hand gestures over Bluet
 
 </div>
 
-<img src="https://capsule-render.com/api?type=waving&color=0:0ea5e9,100:7dd3fc&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:7dd3fc&height=120&section=footer"/>
