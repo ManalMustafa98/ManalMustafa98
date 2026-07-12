@@ -3,7 +3,7 @@
 <img src="https://capsule-render.com/api?type=waving&color=0:7dd3fc,100:0ea5e9&height=200&section=header&text=Manal%20Mustafa&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=CS%20Student&descAlignY=55&descSize=20" width="100%"/>
 
 <a href="https://github.com/ManalMustafa98">
-  <img src="https://readme-typing-svg.demolab.com/?lines=CS+Student+%7C+Full+Stack+Developer;Building+with+Java,+Python+%26+React;Exploring+AI-powered+apps+with+Copilot+%26+ChatGPT;Open+to+Work+Opportunities!&font=Fira+Code&center=true&width=600&height=45&color=7dd3fc&vCenter=true&size=22"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=CS+Student+%7C+Aspiring+Software+Engineer;Building+Full-Stack+Web+Applications;React+%E2%80%A2+Python+%E2%80%A2+FastAPI+%E2%80%A2+AI;Always+Learning.+Always+Building.&font=Fira+Code&center=true&width=600&height=45&color=7dd3fc&vCenter=true&size=22"/>
 </a>
 
 <br/>
@@ -23,19 +23,28 @@
 
 ```typescript
 const manalMustafa = {
-  title: "CS Student",
+  title: "Aspiring Software Engineer",
   stack: {
-    languages: ["Java", "Python"],
-    frontend: ["React"],
+    languages: ["Java", "Python", "SQL"],
+    frontend: ["React", "HTML", "CSS", "JavaScript"],
+    backend: ["FastAPI"],
     cloud: ["Azure"],
     aiTools: ["GitHub Copilot", "Claude", "ChatGPT"]
   },
   launchedProjects: [
     "UniversityAdmissionSystemDB",
-    "Career-Mentor-Ai"
+    "Career-Mentor-Ai",
+    "HandGestureBluetoothCar"
   ],
-  certifications: [],
-  status: "Learning & Building",
+  certifications: [
+    "Today We Are VibeCoding — ACM Developers Day '26",
+    "SQL Showdown — ACM Developers Day '26",
+    "Two-Day Agentic AI Workshop — National AI Hackathon 2026"
+  ],
+  currentlyBuilding: [
+    "AI-powered web applications",
+    "Full-stack projects with React & FastAPI"
+  ],
   openTo: "Full-time / Internship Opportunities"
 };
 ```
@@ -46,7 +55,7 @@ const manalMustafa = {
 
 ### 🎓 University Admission System DB
 
-A full-stack admission portal that lets students apply to multiple universities from a single portal and track test dates and the selection process throughout, backed by a dedicated database layer.
+A database-driven university admission system designed using SQL, allowing applicants to apply, track test dates and the selection process, and manage records through a structured relational database.
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=ManalMustafa98&repo=UniversityAdmissionSystemDB&theme=nord&border_color=7dd3fc&title_color=7dd3fc" />
 
@@ -62,7 +71,7 @@ A full-stack admission portal that lets students apply to multiple universities 
 
 ### 🤖 Career Mentor AI
 
-A scaffolded full-stack AI project featuring a FastAPI backend and a React + Vite + Tailwind frontend.
+An AI-powered career guidance platform built with a FastAPI backend and a React + Vite + Tailwind frontend, designed to provide personalized career recommendations.
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=ManalMustafa98&repo=Career-Mentor-Ai&theme=nord&border_color=7dd3fc&title_color=7dd3fc" />
 
@@ -76,23 +85,53 @@ A scaffolded full-stack AI project featuring a FastAPI backend and a React + Vit
 
 ---
 
+### 🚗 Hand Gesture Bluetooth Car
+
+A hardware project: an Arduino-based car controlled via hand gestures over Bluetooth.
+
+| Layer | Technology |
+|---|---|
+| Hardware | Arduino |
+| Communication | Bluetooth |
+| Control | Hand Gesture Input |
+
+*No GitHub repo or live demo available — hardware project.*
+
+---
+
 ## 🛠️ Tech Stack
 
 **Languages**
 
-![Skills](https://skillicons.dev/icons?i=java,python)
+![Skills](https://skillicons.dev/icons?i=java,python,js)
 
 **Frontend**
 
-![Skills](https://skillicons.dev/icons?i=react)
+![Skills](https://skillicons.dev/icons?i=react,html,css)
 
-**Cloud**
+**Backend**
 
-![Skills](https://skillicons.dev/icons?i=azure)
+![Skills](https://skillicons.dev/icons?i=fastapi)
+
+**Cloud & Database**
+
+![Skills](https://skillicons.dev/icons?i=azure,mysql)
 
 **AI Tools**
 
 ![Skills](https://skillicons.dev/icons?i=githubcopilot)
+
+**Development Tools**
+
+![Skills](https://skillicons.dev/icons?i=git,github,vscode)
+
+---
+
+## 🏆 Achievements & Certifications
+
+- 🎓 **Today We Are VibeCoding** — Certificate of Participation, ACM Developers Day '26 (FAST NUCES Karachi)
+- 🗃️ **SQL Showdown** — Certificate of Participation, ACM Developers Day '26 (FAST NUCES Karachi)
+- 🤖 **Two-Day Agentic AI Workshop** — National AI Hackathon 2026, Karachi (by atomcamp)
 
 ---
 
